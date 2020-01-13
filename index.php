@@ -6,7 +6,7 @@ include 'Model/Model.php';
 include 'Controller/Controller.php';
 
 include 'Controller/CategoryController.php';
-include 'Controlle/NewController.php';
+include 'Controller/NewController.php';
 include 'Controller/UserController.php';
 include 'Controller/SecurityController.php';
 
